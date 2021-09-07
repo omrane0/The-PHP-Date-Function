@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "The time is " . date("h:i:sa");
+?>
+
+</body>
+</html>
+
+
+
+The time is 03:42:50pm

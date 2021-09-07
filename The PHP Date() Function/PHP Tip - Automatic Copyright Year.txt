@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+© 2010-<?php echo date("Y");?>
+
+</body>
+</html>
+
+
+
+© 2010-2020
